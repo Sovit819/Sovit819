@@ -49,7 +49,7 @@
 ## 🔥 What I'm Building Now
 
 ### 🟢 Learning Node.js — Backend Engineering Journey  
-📌 **Repo:** https://github.com/Sovit819/Learning-Nodejs  
+📌 **Repo:** https://github.com/Sovit819/Nodejs-project  
 
 I’m deep-diving into Node.js and Express to master how real backend systems work.  
 This repository showcases my exploration of:
@@ -68,11 +68,11 @@ This is my **hands-on backend engineering lab**, where every concept is implemen
 
 - 🏟️ **Sports Facility Booking System (Hybrid Recommendation)**  
   <i>A full-stack booking system with personalized suggestions.</i>  
-  https://github.com/Sovit819/SportsFacilityBookingSystem
+  https://github.com/Sovit819/Sports-Facility-Booking-System-with-Recommendations
 
 - 🍔 **MERN Food Delivery App**  
   <i>A complete food delivery application using the MERN stack.</i>  
-  https://github.com/Sovit819/mern-food-delivery
+  https://github.com/Sovit819/MERN-Food-Project
 
 ---
 
