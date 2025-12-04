@@ -26,7 +26,7 @@
 
 ### 🧩 Frontend  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,html,css,js" height="50"/>
+  <img src="https://skillicons.dev/icons?i=react,html,css,js" height="50"/>
 </p>
 
 ### ⚙️ Backend  
@@ -41,7 +41,7 @@
 
 ### 🛠️ Tools & Others  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" height="50"/>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,gcp" height="50"/>
 </p>
 
 ---
